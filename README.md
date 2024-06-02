@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🌱 I’m currently learning MERN Stack<br><br>    👨‍💻 All of my projects are available at https://github.com/karthik-j7799<br><br>    📫 How to reach me karthikj7799@gmail.com<br>
+<br><br>    🌐 Web Developer & MERN enthusiast | Transforming concepts into captivating digital journeys. Proficient in HTML, CSS, and JavaScript, diving deep into React.js and Node.js. Let's connect and create! 💻✨<br><br>    👨‍💻 All of my projects are available at https://github.com/karthik-j7799<br><br>    📫 How to reach me karthikj7799@gmail.com<br>
 
 
 ## 🌐 Socials:
