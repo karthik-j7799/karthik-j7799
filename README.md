@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌐 Software Engineer | Full-Stack Developer | Tech Enthusiast <br><br> 
-Transforming concepts into captivating digital journeys. Let's connect and create! 💻✨<br><br>  📫 How to reach me karthikj7799@gmail.com<br>
+Let's connect and create! 💻✨<br><br>  📫 How to reach me karthikj7799@gmail.com<br>
 
 
 
